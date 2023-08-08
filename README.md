@@ -16,6 +16,10 @@
 
 ## 启动项目
 
+```bash
+npm install vuepress 
+```
+
 跳转目录：
 
 ```bash
@@ -25,6 +29,10 @@ cd docs
 启动：
 
 ```
+npm install
+
 npm run docs:dev
 ```
+
+
 
